@@ -3,9 +3,9 @@ info:
   title: Auth API
   version: "1.0"
 servers:
-  - url: http://localhost:5000/api/v1/
+  - url: http://localhost:5000/api/v1
     description: dev server
-  - url: https://si-auth-serv.herokuapp.com/api/v1/users
+  - url: https://auth-g-ac.herokuapp.com/api/v1
     description: production server
 
 components:
